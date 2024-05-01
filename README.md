@@ -6,6 +6,7 @@ A simple, educational social media platform (e.g. twitter for students) created 
 - Posting updates
 - Viewing posts from other users
 - Customizing student profiles
+- Viewing user permissions (if admin)
 
 ## Technologies
 - HTML
