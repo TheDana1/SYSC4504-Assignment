@@ -18,13 +18,14 @@ A simple, educational social media platform (e.g. twitter for students) created 
 - phpMyAdmin
 
 ## Installation
-1. Download the repository and extract it. 
-2. Move the extracted folder to the htdocs directory in your XAMPP installation folder.
-3. Open your web browser and go to http://localhost/phpmyadmin.
-4. Use the Import tab in phpMyAdmin to import the .sql file provided in the project folder and set up the database tables 
-5. Start XAMPP: 
+1. Make sure you have XAMPP installed on your device.
+2. Download the repository and extract it. 
+3. Move the extracted folder to the htdocs directory in your XAMPP installation folder.
+4. Open your web browser and go to http://localhost/phpmyadmin.
+5. Use the Import tab in phpMyAdmin to import the .sql file provided in the project folder and set up the database tables 
+6. Start XAMPP: 
    Launch XAMPP Control Panel and start Apache and MySQL.
-6. Go to http://localhost/pathToProject and the website should be visible
+7. Go to http://localhost/pathToProject and the website should be visible
 
    
 ## Pictures
